@@ -9,6 +9,7 @@
     "package": "electron-forge package",
     "make": "electron-forge make",
     "publish": "electron-forge publish",
+    "server": "node ./test-server.js",
     "lint": "echo \"No linting configured\""
   },
   "keywords": [],
