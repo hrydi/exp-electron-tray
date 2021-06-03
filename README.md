@@ -9,6 +9,14 @@ I'am new at node.js programming, so if you find any bugs don't blame me :D
 ## Info
 It's build from electron command line tool called `eletron-forge`, you can see dependencies in the code for details.
 
+See video [here](https://www.youtube.com/watch?v=vxm9y_RQw5w)
+
+Download store icon [here](https://freeicons.io/business-collection-icon/store-icon-22338)
+
+Download circle icon [here](https://www.iconsdb.com/custom-color/circle-icon.html)
+
+
+
 > Start
 
 ```$ npm run start ```
